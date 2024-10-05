@@ -31,5 +31,5 @@ php artisan db:seed
 ## API Documentation
 На выбор предоставляется API документация для двух программ:
 
-- SwaggerEditor [swagger_api.yaml](https://github.com/yar101/api_curd_test/documentation/swagger_api.yaml) или [swagger_api.json](https://github.com/yar101/api_curd_test/documentation/swagger_api.yaml)
-- Insomnia [insomnia_api.json](https://github.com/yar101/api_curd_test/documentation/insomnia_api.json)
+- SwaggerEditor [swagger_api.yaml](https://github.com/yar101/api_curd_test/tree/master/documentation/swagger_api.yaml) или [swagger_api.json](https://github.com/yar101/api_curd_test/tree/master/documentation/swagger_api.yaml)
+- Insomnia [insomnia_api.json](https://github.com/yar101/api_curd_test/tree/master/documentation/insomnia_api.json)
