@@ -17,7 +17,7 @@
 ## Installation
 
 ```bash
-git clone https://github.com/yar101/api_crud_test
+git clone https://github.com/yar101/api_crud_test.git
 cd api_crud_test
 php artisan serve
 php artisan migrate
